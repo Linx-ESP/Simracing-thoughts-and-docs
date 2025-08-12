@@ -23,8 +23,6 @@ Manual: [Simagic](https://cdn.shopify.com/s/files/1/0764/6756/8943/files/SIMAGIC
 
 ![simagic-qr-wheel-side-numbered](https://github.com/user-attachments/assets/3c9d023e-fca3-45e4-aa1c-b6d2cb917db5)
 
-From [Youtube: Dan Suzuki - Simagic Alpha EVO Wheelbase Review](https://youtu.be/pInQ37QII1g?si=CptPgroDBuGtOyhN&t=781)
-
 **Pinout**
 
  1. ¿?
