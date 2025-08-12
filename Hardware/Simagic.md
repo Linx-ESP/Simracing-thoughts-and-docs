@@ -27,15 +27,15 @@ From [Youtube: Dan Suzuki - Simagic Alpha EVO Wheelbase Review](https://youtu.be
 
 **Pinout**
 
- 1. 
- 2. 
- 3. 
+ 1. ¿?
+ 2. **5V**
+ 3. **GND**
  4. USB
  5. CAN (-FD?)
  6. CAN (-FD?)
  7. USB
 
-Pins 1 to 3 are 5v and GND, but idk which is which. 1 and 3 are not shorted, so probably 5V, GND and unused.    
+Pins 1 and 3 have no continuity and Pin 1 doesn't seem to be neither GND or Votlage
 Aliexpress/3rd party QRs usually only have 5V and GND. One with full USB would be lovely for DIY.    
   
 If you have a Simagic NEO wheel you can tape pin 5 and 6 to force USB through the passthrough, and 4,5,6,7 to force wireless (as it was in the non-EVO).  
