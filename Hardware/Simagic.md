@@ -37,7 +37,7 @@ External sources:
 - https://www.reddit.com/r/Simagic/comments/1lvrenl/alpha_evo_usb_passthrough_pins
 - [Youtube: Dan Suzuki - Simagic Alpha EVO Wheelbase Review](https://youtu.be/pInQ37QII1g?si=CptPgroDBuGtOyhN&t=781)
 
-Pins 1 and 3 have no continuity and Pin 1 doesn't seem to be neither GND or Votlage
+Pins 1 and 3 have no continuity and Pin 1 doesn't seem to be neither GND or Voltage.   
 Aliexpress/3rd party QRs usually only have 5V and GND. One with full USB would be lovely for DIY.    
   
 If you have a Simagic NEO wheel you can tape pin 5 and 6 to force USB through the passthrough, and 4,5,6,7 to force wireless (as it was in the non-EVO).  
