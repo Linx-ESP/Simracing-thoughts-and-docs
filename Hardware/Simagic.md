@@ -58,9 +58,10 @@ Why did they put CAN in there?
 ### Guessed:
 
 - *Funky Switch* / 7-way encoder: [ALPS RKJXT1F42001](https://tech.alpsalpine.com/e/products/detail/RKJXT1F42001/)
-- RGB Buttons: [CTS 228C series](https://eu.mouser.com/datasheet/2/96/CTS_Switches_Tactile_228C_Series_Datasheet-1371171.pdf)
+- RGB Buttons: [CTS 228C series](https://eu.mouser.com/datasheet/2/96/CTS_Switches_Tactile_228C_Series_Datasheet-1371171.pdf) 
   - Sadly no stock at lscs.com for JCLPCB assembly
-  - Mention to HOOYA TC-1196A-RGB-E-01
+  - Similar: HOOYA TC-1196A-RGB-E-01
+  - Similar: Khon TSL06351-070D831DE-RGB
 
 
 ### Negative
