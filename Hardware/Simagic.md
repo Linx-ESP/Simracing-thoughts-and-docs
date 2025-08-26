@@ -42,3 +42,28 @@ Aliexpress/3rd party QRs usually only have 5V and GND. One with full USB would b
   
 If you have a Simagic NEO wheel you can tape pin 5 and 6 to force USB through the passthrough, and 4,5,6,7 to force wireless (as it was in the non-EVO).  
 Why did they put CAN in there? 
+
+
+# Teardowns / Dissassemblies
+
+## Partial
+
+- GT Neo Hub [r/Simagic](https://www.reddit.com/r/Simagic/comments/1clidwj/simagic_gt_pro_hub_disassembly/)
+- GT Neo [YT: Simagic Official](https://www.youtube.com/watch?v=_ftnGmK0h7M)
+
+## Components used
+
+### Confirmed
+
+### Guessed:
+
+- *Funky Switch* / 7-way encoder: [ALPS RKJXT1F42001](https://tech.alpsalpine.com/e/products/detail/RKJXT1F42001/)
+- RGB Buttons: [CTS 228C series](https://eu.mouser.com/datasheet/2/96/CTS_Switches_Tactile_228C_Series_Datasheet-1371171.pdf)
+  - Sadly no stock at lscs.com for JCLPCB assembly
+
+
+### Negative
+
+- Rotary Encoders:
+ - ALPS EC11 series: No unit with 12 notches/indents
+
