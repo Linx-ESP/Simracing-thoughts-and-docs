@@ -19,7 +19,7 @@ Manual: [Simagic](https://cdn.shopify.com/s/files/1/0764/6756/8943/files/SIMAGIC
 -  **Additional inputs**
   - 6 pads on the front: Supossedly for magnetic dashboard (not yet released)
 
-### Quick Release  
+## Quick Release  
 
 ![simagic-qr-wheel-side-numbered](https://github.com/user-attachments/assets/3c9d023e-fca3-45e4-aa1c-b6d2cb917db5)
 
@@ -42,6 +42,12 @@ Aliexpress/3rd party QRs usually only have 5V and GND. One with full USB would b
   
 If you have a Simagic NEO wheel you can tape pin 5 and 6 to force USB through the passthrough, and 4,5,6,7 to force wireless (as it was in the non-EVO).  
 Why did they put CAN in there? 
+
+## Paddle shifter modules
+
+- Pinout [r/Simagic](https://www.reddit.com/r/Simagic/comments/1k9zxhn/help_simagic_dual_paddle_shifter/)
+<img width="152" height="128" alt="image" src="https://github.com/user-attachments/assets/ed258c3c-84f4-4817-bd19-8274e2b1b9df" />
+
 
 
 # Teardowns / Dissassemblies
