@@ -21,7 +21,7 @@ Manual: [Simagic](https://cdn.shopify.com/s/files/1/0764/6756/8943/files/SIMAGIC
 
 ## Quick Release  
 
-![simagic-qr-wheel-side-numbered](https://github.com/user-attachments/assets/3c9d023e-fca3-45e4-aa1c-b6d2cb917db5)
+<img width="204" height="256" alt="qr" src="https://github.com/user-attachments/assets/3c9d023e-fca3-45e4-aa1c-b6d2cb917db5" />
 
 **Pinout**
 
@@ -46,7 +46,7 @@ Why did they put CAN in there?
 ## Paddle shifter modules
 
 - Pinout [r/Simagic](https://www.reddit.com/r/Simagic/comments/1k9zxhn/help_simagic_dual_paddle_shifter/)
-<img width="152" height="128" alt="image" src="https://github.com/user-attachments/assets/ed258c3c-84f4-4817-bd19-8274e2b1b9df" />
+<img width="204" height="256" alt="image" src="https://github.com/user-attachments/assets/ed258c3c-84f4-4817-bd19-8274e2b1b9df" />
 
 
 
