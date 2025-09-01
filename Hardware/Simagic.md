@@ -43,6 +43,10 @@ Aliexpress/3rd party QRs usually only have 5V and GND. One with full USB would b
 If you have a Simagic NEO wheel you can tape pin 5 and 6 to force USB through the passthrough, and 4,5,6,7 to force wireless (as it was in the non-EVO).  
 Why did they put CAN in there? 
 
+**Extra**
+
+- Pogo pins: from PCB; 4.0mm compress, 5.5mm extended 
+
 ## Paddle shifter modules
 
 - Pinout [r/Simagic](https://www.reddit.com/r/Simagic/comments/1k9zxhn/help_simagic_dual_paddle_shifter/)
