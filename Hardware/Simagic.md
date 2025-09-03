@@ -43,7 +43,22 @@ Aliexpress/3rd party QRs usually only have 5V and GND. One with full USB would b
 If you have a Simagic NEO wheel you can tape pin 5 and 6 to force USB through the passthrough, and 4,5,6,7 to force wireless (as it was in the non-EVO).  
 Why did they put CAN in there? 
 
-**Extra**
+## Front Connectors
+
+**Pinout**
+Source: https://fccid.io/2AWJ8-ALPHA-EVO/Internal-Photos/Internal-photos-7699578.pdf & https://device.report/m/f126831834026bdba767825189e33fd79168db67a7ac37a613d76328ecbc425b
+
+<img width="368" height="180" alt="image" src="https://github.com/user-attachments/assets/65c7da21-ecef-48df-b19a-d23e66ed365b" />
+
+Left to Right
+- **5V**
+- *H2-P*
+- *H2-N*
+- CAN-FD Low
+- CAN-FD High
+- **GND**
+
+## Extra
 
 - Pogo pins: from PCB; 4.0mm compress, 5.5mm extended 
 
