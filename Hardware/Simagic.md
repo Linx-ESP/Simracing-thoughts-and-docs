@@ -53,11 +53,14 @@ Source: https://fccid.io/2AWJ8-ALPHA-EVO/Internal-Photos/Internal-photos-7699578
 
 Left to Right 
 - **5V**
-- *H2-P*
-- *H2-N*
+- *H2-P* (Maybe USB data +, Data Positive, green cable on rear PCB)
+- *H2-N* (Maybe USB data -, Data Negative, white cable on rear PCB)
 - CAN-FD Low
 - CAN-FD High
 - **GND**
+
+Rear PCB cabling from [Boosted Media](https://www.youtube.com/watch?v=xHefYsMJs54&t=1925s)
+<img width="284" height="294" alt="image" src="https://github.com/user-attachments/assets/a1b0ddec-fe4f-4745-92ab-8ca793696e85" />
 
 ## Extra
 
