@@ -25,7 +25,7 @@ Manual: [Simagic](https://cdn.shopify.com/s/files/1/0764/6756/8943/files/SIMAGIC
 
 **Pinout**
 
- 1. ¿?
+ 1. Unused, not wired. See [Fig.11](https://device.report/m/f126831834026bdba767825189e33fd79168db67a7ac37a613d76328ecbc425b)
  2. **5V**
  3. **GND**
  4. USB Data-
