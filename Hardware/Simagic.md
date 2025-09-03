@@ -45,12 +45,13 @@ Why did they put CAN in there?
 
 ## Front Connectors
 
-**Pinout**
+**Pinout**  
+
 Source: https://fccid.io/2AWJ8-ALPHA-EVO/Internal-Photos/Internal-photos-7699578.pdf & https://device.report/m/f126831834026bdba767825189e33fd79168db67a7ac37a613d76328ecbc425b
 
 <img width="368" height="180" alt="image" src="https://github.com/user-attachments/assets/65c7da21-ecef-48df-b19a-d23e66ed365b" />
 
-Left to Right
+Left to Right 
 - **5V**
 - *H2-P*
 - *H2-N*
