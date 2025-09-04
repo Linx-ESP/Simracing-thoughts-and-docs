@@ -45,6 +45,10 @@ Why did they put CAN in there?
 
 ## Front Connectors
 
+Pads: 
+- 2,5mm or 2,54mm pitch.
+- 1,5mm diameter
+
 **Pinout**  
 
 Source: https://fccid.io/2AWJ8-ALPHA-EVO/Internal-Photos/Internal-photos-7699578.pdf & https://device.report/m/f126831834026bdba767825189e33fd79168db67a7ac37a613d76328ecbc425b
