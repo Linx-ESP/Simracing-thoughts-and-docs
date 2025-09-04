@@ -7,7 +7,7 @@ Manual: [Simagic](https://cdn.shopify.com/s/files/1/0764/6756/8943/files/SIMAGIC
     - Main connection
   - USB-C: 
     - QR passthrough (no need for Maglink for GT NEO)
-    - ¿Accesories like the 6 pin front connector for the "dashboard"?
+    - 6 pin front pads
 
 - **Inputs**:
   - Power plug: Need to measure, inner positive. Both base and stock PSU: 48V 5.,25A   
@@ -55,14 +55,14 @@ Pads:
 
 **Pinout**  
 
-Source: https://fccid.io/2AWJ8-ALPHA-EVO/Internal-Photos/Internal-photos-7699578.pdf & https://device.report/m/f126831834026bdba767825189e33fd79168db67a7ac37a613d76328ecbc425b
+Image source: https://fccid.io/2AWJ8-ALPHA-EVO/Internal-Photos/Internal-photos-7699578.pdf & https://device.report/m/f126831834026bdba767825189e33fd79168db67a7ac37a613d76328ecbc425b
 
 <img width="368" height="180" alt="image" src="https://github.com/user-attachments/assets/65c7da21-ecef-48df-b19a-d23e66ed365b" />
 
 Left to Right 
 - **5V**
-- *H2-P* (Maybe USB data +, Data Positive, ¿white cable on rear PCB?)
-- *H2-N* (Maybe USB data -, Data Negative, ¿green cable on rear PCB?)
+- **USB Data+**  
+- **USB Data-**  
 - CAN-FD Low
 - CAN-FD High
 - **GND**
