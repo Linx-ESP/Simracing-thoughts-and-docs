@@ -8,6 +8,8 @@ Manual: [Simagic](https://cdn.shopify.com/s/files/1/0764/6756/8943/files/SIMAGIC
   - USB-C: 
     - QR passthrough (no need for Maglink for GT NEO)
     - 6 pin front pads
+    - Seems to be a powered hub internally (guess based on power of a wheel and a screen at the same time)
+    - *Why did they just use this one for the base too?*
 
 - **Inputs**:
   - Power plug: Need to measure, inner positive. Both base and stock PSU: 48V 5.,25A   
@@ -80,6 +82,13 @@ Rear PCB cabling from [Boosted Media](https://www.youtube.com/watch?v=xHefYsMJs5
 
 
 # Teardowns / Dissassemblies
+
+## FCC documents
+
+- Multiple devices [device.report](https://device.report/shen-zhen-simagic-technology)
+  - Seems easier to navigate that fccid.io, but should be same documents. At least those that are tagged as FCC. 
+
+
 
 ## Partial
 
