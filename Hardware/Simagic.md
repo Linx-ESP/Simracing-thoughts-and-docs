@@ -40,9 +40,10 @@ External sources:
 - [Youtube: Dan Suzuki - Simagic Alpha EVO Wheelbase Review](https://youtu.be/pInQ37QII1g?si=CptPgroDBuGtOyhN&t=781)
   
 Aliexpress/3rd party QRs usually only have 5V and GND. One with full USB would be lovely for DIY.    
+Made a PCB but haven't test: https://www.printables.com/model/1393116-simagic-qr-usb-pcb-wheelside  
   
 If you have a Simagic NEO wheel you can tape pin 5 and 6 to force USB through the passthrough, and 4,5,6,7 to force wireless (as it was in the non-EVO).  
-Why did they put CAN in there? 
+*Why did they put CAN in there?*
   
 **Extra**  
   
