@@ -1,0 +1,33 @@
+! Low Fuel Motorsport
+! Don't care about livestreams, already enought eye bloat on the website
+! This is the one that shows on the side
+lowfuelmotorsport.com##elastic-livestreams
+! This is the one that shows under the series in the main body, not as offensive and in case you like it
+lowfuelmotorsport.com###broadcasts
+! Not bad, but it triggers nvidia RTX upscaling thing (or Edge's / Chrome's)
+||lowfuelmotorsport.com/assets/img/main-background*.png$image
+! Weird spacing, probably due to other rules
+lowfuelmotorsport.com##.dashboard-upper-wrapper
+! How to install Assetto Corsa that makes the website even narrower
+lowfuelmotorsport.com###wrapper > div.ng-tns-c32-6 > .ng-star-inserted.ng-tns-c32-6
+! Not bad, I just don't like it. Doesn't remove the thing where you select the game
+lowfuelmotorsport.com##.game-chooser-row
+! Additional stuff
+lowfuelmotorsport.com##elastic-dashboard-socials
+lowfuelmotorsport.com##elastic-dashboard-live
+lowfuelmotorsport.com##elastic-ad-service
+lowfuelmotorsport.com##div.ng-tns-c32-6:nth-of-type(6)
+lowfuelmotorsport.com##.catch-phrase-wrapper
+! Patreon, store, setups ads thingy. If it wasn't for the last and because it is mixed in the same menu...
+lowfuelmotorsport.com##.menu > div.ng-star-inserted:nth-of-type(8) > .ng-star-inserted
+lowfuelmotorsport.com##.menu > div.ng-star-inserted:nth-of-type(7) > .ng-star-inserted
+lowfuelmotorsport.com##.menu > div.ng-star-inserted:nth-of-type(12) > .ng-star-inserted
+lowfuelmotorsport.com##.menu > div.ng-star-inserted:nth-of-type(11) > .ng-star-inserted
+  
+
+! Racedepart... Overtake
+www.overtake.gg##.is-active.js-notice.overlay-container
+www.overtake.gg##.discountnotice.js-notice.notice
+www.overtake.gg##.announcement.js-notice.notice
+www.overtake.gg##.p-body-sidebar > div.block:nth-of-type(3) > .block-container
+www.overtake.gg##.p-header
