@@ -72,6 +72,15 @@ Left to Right
 Rear PCB cabling from [Boosted Media](https://www.youtube.com/watch?v=xHefYsMJs54&t=1925s)  
 <img width="284" height="294" alt="image" src="https://github.com/user-attachments/assets/a1b0ddec-fe4f-4745-92ab-8ca793696e85" />
 
+## Rear Connectors
+
+<img width="284" height="294" alt="image" src="https://github.com/user-attachments/assets/519e0718-46cb-4833-8bf5-9fb104508d11" />
+
+
+USB-A ports have the same 5V and GND:  
+  - They can be used for power and doesn't seem to have issues with USB cable/devices.  
+  - A quick test show at least 1Amp. Of course, 5V only.  
+  - USB to barrel jack allow for powering stuff like USB Hubs.  
 
 
 ## Paddle shifter modules
