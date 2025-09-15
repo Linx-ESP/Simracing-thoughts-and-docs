@@ -108,6 +108,13 @@ USB-A ports have the same 5V and GND:
 
 ### Confirmed
 
+- Internal USB Hub: [GENESYS GL852G](https://www.genesyslogic.com.tw/en/product_view.php?show=22)
+  - MTT: Proper USB distribution   
+  - 4 downstream ports: "QR", "Magnetic Dash" + 2xRJ45 that support USB    
+  - Image courtesy of Simagic's Discord user "carodiohp"  
+   <img width="250" height="221" alt="image" src="https://github.com/user-attachments/assets/b5e1bcb9-869e-4b4a-bfed-40d9795cb7b0" />
+
+
 ### Guessed:
 
 - *Funky Switch* / 7-way encoder: [ALPS RKJXT1F42001](https://tech.alpsalpine.com/e/products/detail/RKJXT1F42001/)
