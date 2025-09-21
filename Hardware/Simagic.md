@@ -18,9 +18,7 @@ Manual: [Simagic](https://cdn.shopify.com/s/files/1/0764/6756/8943/files/SIMAGIC
   - +1x RJ45: CAN-FD for Emergency stop (seems like it can be used for more than the E-Stop)   
   - 2x RJ45: CAN-FD + USB data
   - 3x USB-A: CAN (non-FD, no USB data)
- 
--  **Additional inputs**
-  - 6 pads on the front: Supossedly for magnetic dashboard (not yet released)
+  - 6 pads on the front: USB capable
 
 ## Quick Release  
 
