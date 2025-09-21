@@ -8,8 +8,9 @@ Manual: [Simagic](https://cdn.shopify.com/s/files/1/0764/6756/8943/files/SIMAGIC
   - USB-C: 
     - QR passthrough (no need for Maglink for GT NEO)
     - 6 pin front pads
+    - Both USB capable RJ45 connectors.
     - Seems to be a powered hub internally (guess based on power of a wheel and a screen at the same time)
-    - *Why did they just use this one for the base too?*
+    - *Why didn't they just use this one for the base too?*
 
 - **Inputs**:
   - Power plug: Need to measure, inner positive. Both base and stock PSU: 48V 5.,25A   
