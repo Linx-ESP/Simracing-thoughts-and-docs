@@ -76,8 +76,12 @@ Rear PCB cabling from [Boosted Media](https://www.youtube.com/watch?v=xHefYsMJs5
 
 <img width="284" height="294" alt="image" src="https://github.com/user-attachments/assets/519e0718-46cb-4833-8bf5-9fb104508d11" />
 
+<img width="620" height="342" alt="image" src="https://github.com/user-attachments/assets/250584ed-be5e-47e2-b16e-0088e099a754" />  
 
-USB-A ports have the same 5V and GND:  
+  
+  
+USB-A ports have the same 5V and GND as a normal USB connector:  
+  - USB Data lines replaced with CAN High and CAN Low
   - They can be used for power and doesn't seem to have issues with USB cable/devices.  
   - A quick test show at least 1Amp. Of course, 5V only.  
   - USB to barrel jack allow for powering stuff like USB Hubs.  
