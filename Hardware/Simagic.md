@@ -74,6 +74,8 @@ Rear PCB cabling from [Boosted Media](https://www.youtube.com/watch?v=xHefYsMJs5
 
 ## Rear Connectors
 
+### USB-A
+
 <img width="284" height="294" alt="image" src="https://github.com/user-attachments/assets/519e0718-46cb-4833-8bf5-9fb104508d11" />
 
 <img width="620" height="342" alt="image" src="https://github.com/user-attachments/assets/250584ed-be5e-47e2-b16e-0088e099a754" />  
