@@ -46,7 +46,8 @@ If you have a Simagic NEO wheel you can tape pin 5 and 6 to force USB through th
   
 **Extra**  
   
-- Pogo pins: from PCB; 4.0mm compress, 5.5mm extended 
+- Pogo pins: from PCB; 4.0mm compress, 5.5mm extended
+- PCB thickness: 1.6mm
   
 ## Front Connectors
 
