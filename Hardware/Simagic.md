@@ -114,6 +114,8 @@ USB-A ports have the same 5V and GND as a normal USB connector:
 
 ### Confirmed
 
+- MCU: [GigaDevice GD32E508 VET6](https://www.gigadevice.com/product/mcu/mcus-product-selector/gd32e508vet6)  
+
 - Internal USB Hub: [GENESYS GL852G](https://www.genesyslogic.com.tw/en/product_view.php?show=22)
   - MTT: Proper USB distribution   
   - 4 downstream ports: "QR", "Magnetic Dash" + 2xRJ45 that support USB    
