@@ -88,10 +88,23 @@ USB-A ports have the same 5V and GND as a normal USB connector:
   - A quick test show at least 1Amp. Of course, 5V only.  
   - USB to barrel jack allow for powering stuff like USB Hubs.  
 
+### RJ45  
+
+  
+<img width="250" height="175" alt="image" src="https://github.com/user-attachments/assets/0c6091c5-e975-4298-a748-d4597e1290c6" />  
+  
+Only the middle top two (in orange) have USB capabilities:
+- The non USB are identical except the two contacts for USB Data lines are not connected to anything.  
+
+**Pinout**
+
+<img width="340" height="330" alt="image" src="https://github.com/user-attachments/assets/995da560-a2e8-4a63-898e-a1535f0ab04e" />
+  
+  
 
 ## Paddle shifter modules
 
-- Pinout [r/Simagic](https://www.reddit.com/r/Simagic/comments/1k9zxhn/help_simagic_dual_paddle_shifter/)
+- Pinout from [r/Simagic](https://www.reddit.com/r/Simagic/comments/1k9zxhn/help_simagic_dual_paddle_shifter/)
 <img width="204" height="256" alt="image" src="https://github.com/user-attachments/assets/ed258c3c-84f4-4817-bd19-8274e2b1b9df" />
 
 
