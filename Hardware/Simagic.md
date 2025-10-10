@@ -4,13 +4,13 @@ Manual: [Simagic](https://cdn.shopify.com/s/files/1/0764/6756/8943/files/SIMAGIC
 
 - **Outputs**: 
   - USB-B: 
-    - Main connection
+    - Wheel base
+    - CAN/CAN-FD devices (they appear on the host device as just one)  
   - USB-C: 
     - QR passthrough (no need for Maglink for GT NEO)
     - 6 pin front pads
     - Both USB capable RJ45 connectors.
     - Seems to be a powered hub internally (guess based on power of a wheel and a screen at the same time)
-    - *Why didn't they just use this one for the base too?*
 
 - **Inputs**:
   - Power plug: Need to measure, inner positive. Both base and stock PSU: 48V 5.,25A   
@@ -140,7 +140,6 @@ Only the middle top two (in orange) have USB capabilities:
 
 - *Funky Switch* / 7-way encoder: [ALPS RKJXT1F42001](https://tech.alpsalpine.com/e/products/detail/RKJXT1F42001/)
 - RGB Buttons: [CTS 228C series](https://eu.mouser.com/datasheet/2/96/CTS_Switches_Tactile_228C_Series_Datasheet-1371171.pdf) 
-  - Sadly no stock at lscs.com for JCLPCB assembly
   - Similar: HOOYA TC-1196A-RGB-E-01
   - Similar: Khon TSL06351-070D831DE-RGB
 
