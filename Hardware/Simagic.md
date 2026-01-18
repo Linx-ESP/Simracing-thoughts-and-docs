@@ -89,14 +89,13 @@ USB-A ports have the same 5V and GND as a normal USB connector:
   - USB to barrel jack allow for powering stuff like USB Hubs.  
 
 ### RJ45  
-
-  
+ 
 <img width="250" height="175" alt="image" src="https://github.com/user-attachments/assets/0c6091c5-e975-4298-a748-d4597e1290c6" />  
   
 Only the middle top two (in orange) have USB capabilities:
 - The non USB are identical except the two contacts for USB Data lines are not connected to anything.  
 
-**Pinout**
+**Pinout wheelbase**
 
 <img width="340" height="330" alt="image" src="https://github.com/user-attachments/assets/995da560-a2e8-4a63-898e-a1535f0ab04e" />
   
